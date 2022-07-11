@@ -1,0 +1,18 @@
+body{
+    background-color: #54f0cb;
+}
+#Timer{
+    float: right;
+    margin-right: 50px;
+}
+#Score{
+    margin-left: 30px;
+}
+p{
+    font-size: large;
+}
+#Sketch2draw{
+    color: blueviolet;
+    font-weight: bolder;
+    font-size: x-large;
+}
